@@ -1,6 +1,6 @@
 {
-  "name": "vue-sprite-animator",
-  "version": "1.0.1",
+  "name": "vue-sprite-animator-make",
+  "version": "1.0.0",
   "description": "",
   "main": "dist/vue-sprite-animator.min.js",
   "keywords": [
